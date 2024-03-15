@@ -1,3 +1,6 @@
 # Notes
-
-- Planning on using the MERN Stack for website (MongoDB, Express.js, React.js, Node.js)
+Planning to use the MERN stack for website
+- MongoDB
+- Express.js
+- React.js
+- Node.js
