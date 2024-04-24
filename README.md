@@ -17,19 +17,19 @@
 	![HTML/CSS](https://www.w3schools.com/html/default.asp)
  
 		Good resources to learn the purpose of HTML/CSS and how to utilize it for your own webpages
- 	..*![Khan-Academy](https://www.khanacademy.org/computing/computer-programming/html-css) 
+ 	..*[Khan-Academy](https://www.khanacademy.org/computing/computer-programming/html-css) 
   
-  	..*![CodeAcademy](https://www.codecademy.com/catalog/language/html-css)
+  	..*[CodeAcademy](https://www.codecademy.com/catalog/language/html-css)
    
-   	..*![GeeksForGeeks](https://www.geeksforgeeks.org/html-css/)
+   	..*[GeeksForGeeks](https://www.geeksforgeeks.org/html-css/)
     
-    	![Javascript](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+    	[Javascript](https://www.youtube.com/watch?v=W6NZfCO5SIk)
      
 	Resources to learn javascript 
-     	..*![W3Schools]https://www.w3schools.com/js/
+     	..*[W3Schools]https://www.w3schools.com/js/
       
-      	..*![FreeCodeAcademy](https://www.youtube.com/watch?v=PkZNo7MFNFg)
-        ..*![MDNWebDocs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+      	..*[FreeCodeAcademy](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+        ..*[MDNWebDocs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
  
 	
